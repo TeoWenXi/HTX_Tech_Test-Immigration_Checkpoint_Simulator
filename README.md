@@ -90,3 +90,6 @@ Top-left "Open Menu" button opens:
 - Scenario Adjustment
 - Custom Agent Spawner
 - Metrics Dashboard
+
+## Notes
+Under high agent density, NavMesh-based pathfinding may introduce minor performance overhead due to crowding effects. This is expected behaviour in real-time multi-agent simulations.
