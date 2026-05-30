@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6491b09b451b5bc4da96b70c6b3a8ff5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnAreaObj: {instanceID: 0}
+  - stationPrefabObj: {fileID: 733860117938910861, guid: db622b08ab2355e47afc14efef34cf66, type: 3}
+  - parentStationObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

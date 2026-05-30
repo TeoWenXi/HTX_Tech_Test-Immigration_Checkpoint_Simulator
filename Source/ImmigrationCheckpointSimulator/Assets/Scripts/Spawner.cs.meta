@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ffc472b483538604b9134ec3fcd69356
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpawningZoneObj: {instanceID: 0}
+  - AgentPrefab: {fileID: 8384368887278037593, guid: 0297261dc6f749741b30c68ea777d1e3, type: 3}
+  - parentObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

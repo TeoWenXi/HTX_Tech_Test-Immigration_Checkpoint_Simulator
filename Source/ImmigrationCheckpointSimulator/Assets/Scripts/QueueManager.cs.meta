@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3dbd4b7dec04e5146b1de9e5ed780727
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallObj: {fileID: 1209834748760590034, guid: d823ca9035d23264a9380a207fbbd51d, type: 3}
+  - tempQueueSlotObj: {fileID: 169080001377964517, guid: 2c5ea695d425d544baa0d9c1bdf2555c, type: 3}
+  - QueueEndPositionObj: {instanceID: 0}
+  - queueStartTriggerBoxObj: {instanceID: 0}
+  - queueStartTriggerBoxPrefab: {fileID: 8376967983029442303, guid: fb0cf2a9820a903408a3f9f63ecc9037, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
