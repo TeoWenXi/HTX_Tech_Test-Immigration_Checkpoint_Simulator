@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.h8man.2d.navmeshplus": "file:C:/Users/ME/Desktop/NavMeshPlus-master",
+    "com.h8man.2d.navmeshplus": "file:Packages/NavMeshPlus-master",
     "com.unity.2d.animation": "14.0.4",
     "com.unity.2d.aseprite": "4.0.2",
     "com.unity.2d.psdimporter": "13.0.3",

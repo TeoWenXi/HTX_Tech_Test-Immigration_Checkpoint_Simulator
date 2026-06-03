@@ -37,7 +37,8 @@ Unity 6000.4.8f1
    ![Configuration Step 1](Documentation/Images/Configuration1.jpg)  
    ![Configuration Step 2](Documentation/Images/Configuration2.jpg)
 
-3. Press Play in the Unity Editor  
+3. Press Play in the Unity Editor
+(Ignore the import errors, it will run as intended)
 
 ### Display Recommendation
 For optimal UI layout, run the simulation in 16:9 aspect ratio. The interface is designed for widescreen display and may not scale correctly on other aspect ratios.
